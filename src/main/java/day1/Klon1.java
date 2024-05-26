@@ -7,6 +7,8 @@ public class Klon1 {
         System.out.println("hello");
         System.out.println("my");
 
+        System.out.println("name");
+
 
     }
 }
