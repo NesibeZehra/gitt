@@ -8,7 +8,8 @@ public class Klon1 {
         System.out.println("my");
 //versiyon2
         System.out.println("name");
-
+//ghghghgh
+        System.out.println(" "        );
 
     }
 }
