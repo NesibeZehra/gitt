@@ -6,7 +6,7 @@ public class Klon1 {
 //versiyon1
         System.out.println("hello");
         System.out.println("my");
-
+//versiyon2
         System.out.println("name");
 
 
